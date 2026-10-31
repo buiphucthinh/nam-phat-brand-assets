@@ -1,0 +1,351 @@
+{
+  "brand": "PETROSETCO - NAM PHÁT GAS",
+  "createdAt": "2026-10-31",
+  "note": "Owner-approved home banners (folder Nam Phát/Duyệt/Duyệt). Resized to 1280x720 WebP q82; content unchanged. Never overwrite files under a published tag; add a new tag.",
+  "excludedNot16x9": [
+    "exec-1c5a7567-a210-41f7-b8d5-aaabe840a9a4.png",
+    "exec-2852e027-960a-43b8-85b2-c0d5ea1f8065.png"
+  ],
+  "banners": [
+    {
+      "file": "banners/home/nam-phat-home-01.webp",
+      "source": "01A-anh-1-chi-thay-logo-1600x900.png",
+      "sourceSha256": "47b3e6733fff5a3162f2919d86eae0c068da5c8dcc6cb85f87d66f6dd3e6e3a0",
+      "sourceSize": [
+        1600,
+        900
+      ],
+      "bytes": 97662
+    },
+    {
+      "file": "banners/home/nam-phat-home-02.webp",
+      "source": "01B-cum-binh-lon-1600x900-v2.png",
+      "sourceSha256": "f91b8404f0d70cb2524fc886b0b584173cd228f5611926eec801d89f0bc0ba1a",
+      "sourceSize": [
+        1600,
+        900
+      ],
+      "bytes": 145560
+    },
+    {
+      "file": "banners/home/nam-phat-home-03.webp",
+      "source": "02-kho-LPG-cum-binh-lon-1920x1080-v2.png",
+      "sourceSha256": "4b444d0cc99e0a8ae7a6546f3d43b511426636fe26b4658fb768a87c5a7584d5",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "bytes": 160404
+    },
+    {
+      "file": "banners/home/nam-phat-home-04.webp",
+      "source": "03-bon-PETGAS-cum-binh-lon-1920x1080-v2.png",
+      "sourceSha256": "6bafac34b9b8e058428a702d4781e1c0031c0249e6ed74840a7f4c70d9459cfb",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "bytes": 158218
+    },
+    {
+      "file": "banners/home/nam-phat-home-05.webp",
+      "source": "04-bang-hieu-cum-binh-lon-1920x1080-v2.png",
+      "sourceSha256": "ad63c540d58c9f070e7cc9b9e8acd12d7291ca00395e4602cd5012cc800c9227",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "bytes": 113394
+    },
+    {
+      "file": "banners/home/nam-phat-home-06.webp",
+      "source": "exec-0afafec9-7a92-4958-80e6-aa94e6584d8a.png",
+      "sourceSha256": "66ad6b440297f343441c8e9d8c3a212c457f7543c4bd34b7258cefa8b72c753a",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 84476
+    },
+    {
+      "file": "banners/home/nam-phat-home-07.webp",
+      "source": "exec-1c71a73c-aa49-49b8-82fa-6439d39c3928.png",
+      "sourceSha256": "2255641e9907bc5bc771a3baa17dce49fe8dd5676ca6ef3709a673f28d197507",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 134320
+    },
+    {
+      "file": "banners/home/nam-phat-home-08.webp",
+      "source": "exec-321614a2-16a1-402b-9368-8a929e0666c2.png",
+      "sourceSha256": "e3b77822d50d325d96e6df8cad6c94cc1d6dc1f49c34cd215471896a9a271d98",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 87168
+    },
+    {
+      "file": "banners/home/nam-phat-home-09.webp",
+      "source": "exec-41eb428d-140f-4674-a5a0-6bcb3e424dda.png",
+      "sourceSha256": "be95fef0d0eeffaba4271c2cc04ff455e0cf2e4f94b53b6ecd2fdbb9ff053403",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 205234
+    },
+    {
+      "file": "banners/home/nam-phat-home-10.webp",
+      "source": "exec-4971f800-132d-4fc5-a326-ba3b1daadcc9.png",
+      "sourceSha256": "f75880ffb88d8cbe4bcdad724303650cf5d3fea5f4daeacd6b3f7902bf87ca33",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 89658
+    },
+    {
+      "file": "banners/home/nam-phat-home-11.webp",
+      "source": "exec-4b2a0ad6-1f12-405e-8f74-9b21ecd01521.png",
+      "sourceSha256": "3a39d36c5223a470a2ef6b6738b4f0ef5a4ad8a8a756857a709cf7d14c27cd15",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 92556
+    },
+    {
+      "file": "banners/home/nam-phat-home-12.webp",
+      "source": "exec-4bab13ba-e98a-45ef-bed7-5ccaf93c4f27.png",
+      "sourceSha256": "d0ae24f48d4d55b859b2c5817157c36ee5ce383c3e0e95f230bd1b8c8defb5c3",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 165234
+    },
+    {
+      "file": "banners/home/nam-phat-home-13.webp",
+      "source": "exec-4d42cbbc-7996-4738-aa78-7fba64728722.png",
+      "sourceSha256": "3b3d2c1991f8760c85e9a3117d1cea583b49693a75a97db0301f17b2130c00df",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 172394
+    },
+    {
+      "file": "banners/home/nam-phat-home-14.webp",
+      "source": "exec-547062b4-2cfb-4bad-b058-aa9f467c931e.png",
+      "sourceSha256": "3a885d2686386de4e904f42b79552456b00b82c0ac2b75781b514878a761cf12",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 124344
+    },
+    {
+      "file": "banners/home/nam-phat-home-15.webp",
+      "source": "exec-76c99adb-aeaf-4c14-b4c7-291d489240d4.png",
+      "sourceSha256": "c41cb36c73cc7b3058014d93e6f6bd7a279fd8cf23e2e52a94244b4391148216",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 153292
+    },
+    {
+      "file": "banners/home/nam-phat-home-16.webp",
+      "source": "exec-7703adbe-1009-478e-bd2e-ca1b905e9c65.png",
+      "sourceSha256": "69b9816799cf6a31f9a2f50bcc07019205031baa9e0c0ddc3829f4d28f454e57",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 84646
+    },
+    {
+      "file": "banners/home/nam-phat-home-17.webp",
+      "source": "exec-7e253c1d-5528-4f23-b04a-050f442eccc6.png",
+      "sourceSha256": "88ee5f51eaf340d6e58859dad9ad10be61c58e3a29eebf4213cd4c75f348deb1",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 124164
+    },
+    {
+      "file": "banners/home/nam-phat-home-18.webp",
+      "source": "exec-7f777cf7-819b-4963-9417-e12c0137fb20.png",
+      "sourceSha256": "02e35c9642b773e80c77806fe8c7231f6dfc6947b3198172fbbbdd98a9c2dd26",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 109150
+    },
+    {
+      "file": "banners/home/nam-phat-home-19.webp",
+      "source": "exec-889f246d-08eb-4632-ad30-a54de6a6aa6b.png",
+      "sourceSha256": "4d942ee0ee2313f4a3db4547b612330338efba0e61ce4ffd62931dfa33511f3f",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 82238
+    },
+    {
+      "file": "banners/home/nam-phat-home-20.webp",
+      "source": "exec-8e7fa210-b722-46f3-a95b-6d24018d3705.png",
+      "sourceSha256": "0edb4d449289102c432b67d468608f1dfcd5d3779b6d2a503d17ec98d5c84156",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 133968
+    },
+    {
+      "file": "banners/home/nam-phat-home-21.webp",
+      "source": "exec-8f2b1621-124b-4eb7-8a35-2002c0894e2e.png",
+      "sourceSha256": "f4e4d2f97762b52d2fed3aa18e82c1593e0c24c0726dc733418afba2e83b2fb3",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 167770
+    },
+    {
+      "file": "banners/home/nam-phat-home-22.webp",
+      "source": "exec-8faf00b8-8484-406e-8807-4f8c0ce9ba3c.png",
+      "sourceSha256": "322881b5034d02f74dcada7a4ecdd412a053596561e4a1249cd43852fbe5d360",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 102312
+    },
+    {
+      "file": "banners/home/nam-phat-home-23.webp",
+      "source": "exec-9c8e2ad1-76e7-469e-9f3a-4633d2b0870c.png",
+      "sourceSha256": "597ece848adb900f5cce90f2012213c0bedc1e01bc9fdbf4c8a711bafc3553a2",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 96154
+    },
+    {
+      "file": "banners/home/nam-phat-home-24.webp",
+      "source": "exec-9e2a3956-c896-4ff8-8499-4096f62f541d.png",
+      "sourceSha256": "39ad7cf04f3c592fa4f9ded9d5012bc710bec5f7c60433fbe54e283c17f452b1",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 86762
+    },
+    {
+      "file": "banners/home/nam-phat-home-25.webp",
+      "source": "exec-acd483f6-2514-4a9f-8abd-acda5acd666e.png",
+      "sourceSha256": "c46a47bbeac4bc0106837cfac997d76333ea6595aab1cfeacb86a86eee056686",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 88462
+    },
+    {
+      "file": "banners/home/nam-phat-home-26.webp",
+      "source": "exec-b0ac56b3-8219-4482-87fc-9c70e03b3830.png",
+      "sourceSha256": "1f6441938622e5662b98c235eb472165fec502faad638bc59045d1121ad92c0f",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 193122
+    },
+    {
+      "file": "banners/home/nam-phat-home-27.webp",
+      "source": "exec-b927a492-7215-4dbe-95f5-e5935bcce225.png",
+      "sourceSha256": "837b34abbcfb5efc4eb367666cc87984053a5502a44098b29efa4e45b8ac8ed8",
+      "sourceSize": [
+        1672,
+        940
+      ],
+      "bytes": 155268
+    },
+    {
+      "file": "banners/home/nam-phat-home-28.webp",
+      "source": "exec-c0e6b4eb-cf9f-40cd-bdb8-caf6b2849e4d.png",
+      "sourceSha256": "d85efe7f7c2d79a8c077079c4c40c677f337df32ccd51c57d23baffda31ab60d",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 111658
+    },
+    {
+      "file": "banners/home/nam-phat-home-29.webp",
+      "source": "exec-cbf4c4f8-57dd-4b18-bbc9-d71ccd4ccfcc.png",
+      "sourceSha256": "96ea07f49945112e859a30c77918ba644b662fff71eea9074105897a298868ce",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 121676
+    },
+    {
+      "file": "banners/home/nam-phat-home-30.webp",
+      "source": "exec-dbc78533-4850-4be9-80df-5dfdf18952cd.png",
+      "sourceSha256": "305289c42a1e85a37c60d071e004015b9fd69f5e62fff1d2899c453c43871ee7",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 142374
+    },
+    {
+      "file": "banners/home/nam-phat-home-31.webp",
+      "source": "exec-df1c890f-edb5-40c1-8046-d996cbdf8eed.png",
+      "sourceSha256": "47ba23d7ab484f5f7668f40458609a7035119a24ab7a39202f83a3bccb023fb5",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 106378
+    },
+    {
+      "file": "banners/home/nam-phat-home-32.webp",
+      "source": "exec-dfee1096-54ae-4b1e-8e7b-0ccb4792a7d7.png",
+      "sourceSha256": "542035fc47b5627984dd950551e9c11beb198d0170357006e7a3b2f18de7f3e4",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 97514
+    },
+    {
+      "file": "banners/home/nam-phat-home-33.webp",
+      "source": "exec-e4bcbf76-9c0f-41d7-ac86-fe9bac56c7f3.png",
+      "sourceSha256": "41bf795586ff98b8683c816b8a80461dcd72773d107a7746cbf487ba929ea8f8",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 76024
+    },
+    {
+      "file": "banners/home/nam-phat-home-34.webp",
+      "source": "exec-ea928004-ce83-49d4-b604-00954a7bbb67.png",
+      "sourceSha256": "cb90a3baefcbbb495369c20dd1ef38aaf24ba2b5550d710758197b4e17a9dfec",
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "bytes": 154172
+    }
+  ]
+}
