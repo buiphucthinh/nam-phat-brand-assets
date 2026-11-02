@@ -1,0 +1,38 @@
+{
+  "tag": "v2",
+  "note": "Small WebP copies (360px) of the real gift photos used by namphat.tiha.vn home promotion tile.",
+  "files": [
+    {
+      "file": "promotions/web\\ajinomoto-msg-360.webp",
+      "bytes": 28978,
+      "sha256": "766edeb09e0fdf49ef819076e278b41d3a8670e1ced3b4595e9486468ec1bdc4",
+      "width": 344,
+      "height": 360,
+      "source": "https://admin.namphat.tiha.vn/assets/brand/promotions/ajinomoto-msg.png"
+    },
+    {
+      "file": "promotions/web\\bienhoa-sugar-360.webp",
+      "bytes": 37864,
+      "sha256": "34530b9b9460f6d5fe660691c86fd2ba8e8bd1c113c74a1ae4e9e76dea0a14ff",
+      "width": 356,
+      "height": 360,
+      "source": "https://admin.namphat.tiha.vn/assets/brand/promotions/bienhoa-sugar.png"
+    },
+    {
+      "file": "promotions/web\\nasu-sugar-1kg-360.webp",
+      "bytes": 41762,
+      "sha256": "8fefaa58581192db5d1ad496d3aafbabc2e21c76dc73f77dac7e6f34ef0e0787",
+      "width": 360,
+      "height": 343,
+      "source": "https://admin.namphat.tiha.vn/assets/brand/promotions/nasu-sugar-1kg.png"
+    },
+    {
+      "file": "promotions/web\\sunlight-bottle-360.webp",
+      "bytes": 18090,
+      "sha256": "e948d36f78b7602e43eaf6d80ae8c59384579a5c8889b85c674e531df02bb9c7",
+      "width": 351,
+      "height": 360,
+      "source": "https://admin.namphat.tiha.vn/assets/brand/promotions/sunlight-bottle.png"
+    }
+  ]
+}
